@@ -1,0 +1,18 @@
+.box-container-geral{
+    width: 50vw;
+    height: 100vh;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.box-container{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btn-name, .btn-value{
+    cursor: pointer;
+}
+
